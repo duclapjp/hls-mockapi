@@ -1,0 +1,7 @@
+{
+    "status": 200,
+    "message": "Successfully",
+    "data": {
+      "token" : "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIwMDAwMDAxMiIsImlhdCI6MTU4NzYxNjIxMywiZXhwIjoxNTg3NjE2MjE0fQ.Ycmi9LSFmWZwCSeo21B0xDC_va8UfJsQmI8GNzhs98BQ7mAZvWQjoPgxaYA52ei-3lPdVAn9ICWtRm6q808gOw"
+    }
+}

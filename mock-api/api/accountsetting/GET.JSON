@@ -1,0 +1,17 @@
+{
+  "status": 200,
+  "message": "Successfully",
+  "data": {
+    "account_id": 15,
+    "role": "ROLE_USER",
+    "mail": "contact@domain.com",
+    "phone": "+84973999888",
+    "noti_dest": "Notification",
+    "display_name": "USER1",
+    "mail_setting": "contact@domain.com",
+    "slack_setting": "slackname",
+    "chatwork_setting": "chatworkname",
+    "line_setting": "linename,
+    "viber_rakuten_setting": "vibername",
+  }
+}

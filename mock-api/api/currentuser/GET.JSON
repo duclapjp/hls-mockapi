@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "data": {
+    "accountId": 10000,
+    "role": "ROLE_ADMIN",
+    "status": "利用中",
+    "chainId": null,
+    "storeId": 10000,
+    "mail": "hls-admin@gmail.com",
+    "phone": "",
+    "note": "",
+    "username": null,
+    "displayName": "HLS Admin",
+    "notiDest": "",
+    "mailSetting": "",
+    "slackSetting": "",
+    "chatworkSetting": "",
+    "lineSetting": "",
+    "viberRakutenSetting": "",
+    "chainName": null,
+    "storeName": null,
+    "firstLogin": true,
+    "user": false,
+    "admin": true,
+    "subAdmin": false,
+    "chain": false,
+    "store": false
+  },
+  "message": "Successfully"
+}

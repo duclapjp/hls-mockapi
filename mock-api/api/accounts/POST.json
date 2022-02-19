@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "accountId": 1,
+      "role": "ROLE_ADMIN",
+      "chainName": "Chain AAA",
+      "storeName": "Store BBB",
+      "mail": "admin@reactplus.com",
+      "phone": "+84973999888",
+      "note": "Note",
+      "username": "admin"
+    },
+    {
+      "accountId": 2,
+      "role": "ROLE_USER",
+      "chainName": "Chain AAA",
+      "storeName": "Store BBB",
+      "mail": "contact@reactplus.com",
+      "phone": "+84988111222",
+      "note": "Banned from admin",
+      "username": "user"
+    }
+  ],
+  "message": "Successfully"
+}
