@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "data": {
+    "sitecontrollers": [
+      {
+        "siteControllerId": 200,
+        "name": "Site 1 aaa cc dee"
+      },
+      {
+        "siteControllerId": 201,
+        "name": "Site Controller 1 aaa"
+      },
+      {
+        "siteControllerId": 202,
+        "name": "Site Controller 2 bbb"
+      },
+      {
+        "siteControllerId": 203,
+        "name": "Site 203"
+      }
+    ],
+    "total": 4
+  },
+  "message": "Successfully"
+}

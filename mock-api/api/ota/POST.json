@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "data": {
+    "otaId": 10020,
+    "name": "Test new OTA AAA ",
+    "otaTypeId": 10001,
+    "loginUrlFixed1": "http://google.com",
+    "loginUrlFixed2": "222222222",
+    "storeId": null,
+    "loginId": null,
+    "password": null,
+    "passwordUpdateDeadline": 90,
+    "note": "33333333333333",
+    "status": "ENABLED",
+    "otaTypeName": null,
+    "displayStoreId": true
+  },
+  "message": "Successfully"
+}

@@ -1,0 +1,29 @@
+{
+  "status": 200,
+  "data": {
+    "passwordHistories": [
+      {
+        "otaPasswordHistoryId": 30,
+        "otaId": 100,
+        "accountId": 2,
+        "storeId" : 10001,
+        "password": "password1",
+        "updatedTime": 1588647906000,
+        "otaName": "OTA React",
+        "accountName": "hellox111React"
+      },
+      {
+        "otaPasswordHistoryId": 31,
+        "otaId": 100,
+        "accountId": 3,
+        "storeId" : 10001,
+        "password": "password",
+        "updatedTime": 1588655706000,
+        "otaName": "OTA React",
+        "accountName": "account3"
+      }
+    ],
+    "total": 2
+  },
+  "message": "Successfully"
+}

@@ -1,0 +1,17 @@
+{
+  "status": 200,
+  "data": {
+    "accounts": [
+      {
+        "directorId": 10000,
+        "displayName": "HLS Admin"
+      },
+      {
+        "directorId": 10001,
+        "displayName": "Chain Name"
+      }
+    ],
+    "total": 2
+  },
+  "message": "Successfully"
+}

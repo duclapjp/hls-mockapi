@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "data": {
+    "storeId": 10022,
+    "chainId": null,
+    "directorId": 10003,
+    "managerName": "manager name 1_22222222",
+    "managerMail": "managermail@gmail.com2222222222",
+    "managerPhone": "099999998999222222222",
+    "name": "222222222 Updatedd 2222222222",
+    "contractStatus": "解約",
+    "note": " noteddd ",
+    "chainName": null,
+    "directorName": null,
+    "otas": [
+      {
+        "storeId": 10022,
+        "otaId": 10011,
+        "url": "222222222test.com",
+        "customStoreId": "333333333333storeId1111",
+        "username": "33333333username111",
+        "password": "33333333password111",
+        "expiredDate": "2020/10/08",
+        "note": "333333333noteddd test",
+        "otaTypeId": 10000,
+        "otaTypeName": "Ota 1 updated 222222222 ",
+        "displayStoreId": false
+      },
+      {
+        "storeId": 10022,
+        "otaId": 10013,
+        "url": "8888test2.com",
+        "customStoreId": "88storeId2222",
+        "username": "88username222",
+        "password": "88password222",
+        "expiredDate": "2020/09/28",
+        "note": "88noteddd2222 test",
+        "otaTypeId": 10001,
+        "otaTypeName": "Ota 1000",
+        "displayStoreId": false
+      },
+      {
+        "storeId": 10022,
+        "otaId": 10022,
+        "url": "10022222.com",
+        "customStoreId": "10022100221002210022",
+        "username": "100221002210022",
+        "password": "88pas100221002210022sword222",
+        "expiredDate": "2020/10/07",
+        "note": "1002288noteddd1002210022100222222 test",
+        "otaTypeId": 10001,
+        "otaTypeName": "44444Test new OTA AAA ",
+        "displayStoreId": true
+      }
+    ]
+  },
+  "message": "Successfully"
+}

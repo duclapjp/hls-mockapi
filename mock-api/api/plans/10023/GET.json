@@ -1,0 +1,23 @@
+{
+  "status": 200,
+  "data": {
+    "planId": 10023,
+    "name": "Plan 4444eeee",
+    "status": "DISABLED",
+    "createdDate": 1595303837949,
+    "updatedDate": 1595392506593,
+    "storeId": 10000,
+    "items": [
+      {
+        "planId": 10023,
+        "itemId": 10000
+      },
+      {
+        "planId": 10023,
+        "itemId": 10001
+      }
+    ],
+    "corder": 19999
+  },
+  "message": "Successfully"
+}

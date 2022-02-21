@@ -1,0 +1,30 @@
+{
+  "status": 200,
+  "data": {
+    "amountGroupId": 10044,
+    "storeId": 10000,
+    "amountGroupNo": 2,
+    "totalPeople": 4,
+    "amountGroupName": "Group 5",
+    "enable": true,
+    "createdDate": null,
+    "updatedTime": null,
+    "accountId": 8,
+    "displayName": null,
+    "amountGroupRanks" : [
+      {
+        "amountRankId" : 10018,
+        "amounts" : [15, 17,30, 50]
+      }
+    , {
+        "amountRankId" : 10019,
+        "amounts" : [188, 199, 400, 600]
+      }, {
+        "amountRankId" : 10020,
+        "amounts" : [1, 2, 3, 4]
+      }
+
+    ]
+  },
+  "message": "Successfully"
+}

@@ -1,0 +1,70 @@
+{
+  "status": 200,
+  "data": {
+    "taskId": 80000,
+    "categoryId": 80000,
+    "title": "Task example",
+    "attachName": "attachname.png\n",
+    "attachUrl": "folder/attachname.png",
+    "note": "Noteetetet",
+    "status": "完了",
+    "priority": "HIGH",
+    "assigneeId": 10003,
+    "startDate": "2020/05/15",
+    "dueDate": null,
+    "estTime": 200,
+    "estPoint": 50,
+    "childs" : [
+
+      {
+        "taskId": 10045,
+        "categoryId": 10000,
+        "title": "alo alo alo ",
+        "note": null,
+        "status": "担当者確認中",
+        "priority": "中",
+        "assigneeId": 10001,
+        "assigneeName": "HLS Store",
+        "startDate": "2020/05/28",
+        "dueDate": "2020/06/27",
+        "estTime": 200,
+        "estPoint": 1000,
+        "actualTime": 0,
+        "directorId": null,
+        "directorName": null,
+        "registerDate": "2020/06/03",
+        "registerPersonId": 10001,
+        "registerPersonName": "HLS Store",
+        "storeId": 10000,
+        "storeName": "Hotel 1",
+        "parentTaskId": null,
+        "visible": false
+      }
+
+    ],
+    "attachs": [
+      {
+        "taskAttachId": 10003,
+        "taskId": 80000,
+        "attachName": "nicks-cors-test-master.zip",
+        "attachUrl": "attached-10003.zip",
+        "createdDate": "2020/05/20"
+      },
+      {
+        "taskAttachId": 10002,
+        "taskId": 80000,
+        "attachName": "96259399_596176531253185_4072767854431174656_n.jpg",
+        "attachUrl": "attached-10002.jpg",
+        "createdDate": "2020/05/19"
+      },
+      {
+        "taskAttachId": 10001,
+        "taskId": 80000,
+        "attachName": "96259399_596176531253185_4072767854431174656_n.jpg",
+        "attachUrl": "attached-10001.jpg",
+        "createdDate": "2020/05/19"
+      }
+    ]
+  },
+  "message": "Successfully"
+}

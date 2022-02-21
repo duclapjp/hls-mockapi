@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "data": {
+    "storeId": 10022,
+    "chainId": null,
+    "directorId": 10003,
+    "managerName": "manager name 1",
+    "managerMail": "managermail@gmail.com",
+    "managerPhone": "099999998999",
+    "name": "111111111111111 Test New 11111",
+    "contractStatus": "契約中",
+    "note": " noteddd ",
+    "chainName": null,
+    "directorName": null,
+    "otas": [
+      {
+        "storeId": 10022,
+        "otaId": 10011,
+        "url": "test.com",
+        "customStoreId": "storeId1111",
+        "username": "username111",
+        "password": "password111",
+        "expiredDate": null,
+        "note": "noteddd test"
+      },
+      {
+        "storeId": 10022,
+        "otaId": 10012,
+        "url": "test2.com",
+        "customStoreId": "storeId2222",
+        "username": "username222",
+        "password": "password222",
+        "expiredDate": null,
+        "note": "noteddd2222 test"
+      }
+    ]
+  },
+  "message": "Successfully"
+}

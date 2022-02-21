@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "data": {
+    "userTaskSummaries": [
+      {
+        "accountId": 10000,
+        "taskId": 10009,
+        "createdDate": "2020/05/07",
+        "summaryTime": 1000,
+        "latestAction": "TEST ACTION",
+        "latestActionTime": "2020/05/07",
+        "displayName": "HLS Admin"
+      }
+    ],
+    "total": 1
+  },
+  "message": "Successfully"
+}

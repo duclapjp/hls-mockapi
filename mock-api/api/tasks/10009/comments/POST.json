@@ -1,0 +1,37 @@
+{
+  "status": 200,
+  "data": {
+    "comments": [
+      {
+        "commentId": 10000,
+        "taskId": 10009,
+        "status": "ACTIVE",
+        "assigneeId": 8,
+        "startDate": "2020/05/01",
+        "dueDate": "2020/05/16",
+        "commentText": "Haha 1",
+        "estTime": 4,
+        "estPoint": 100,
+        "creatorId": 8,
+        "creatorName": "ADMIN 8",
+        "type": "USER"
+      },
+      {
+        "commentId": 10001,
+        "taskId": 10009,
+        "status": "ACTIVE",
+        "assigneeId": 10000,
+        "startDate": "2020/05/01",
+        "dueDate": "2020/05/20",
+        "commentText": "Haha 2",
+        "estTime": 20,
+        "estPoint": 200,
+        "creatorId": 8,
+        "creatorName": "ADMIN 8",
+        "type": "USER"
+      }
+    ],
+    "total": 2
+  },
+  "message": "Successfully"
+}

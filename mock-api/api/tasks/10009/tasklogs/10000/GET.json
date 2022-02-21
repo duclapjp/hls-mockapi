@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "data": {
+    "taskLogId": 10003,
+    "taskId": 80000,
+    "accountId": 10000,
+    "displayName": null,
+    "action": "STOP",
+    "executeTime": 165600,
+    "accumulationTime": 241569,
+    "taskLogDate": "2020/05/20"
+  },
+  "message": "Successfully"
+}

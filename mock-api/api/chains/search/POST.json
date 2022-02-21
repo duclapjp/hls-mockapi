@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "data": {
+    "chains": [
+      {
+        "chainId": 1,
+        "name": "Chain 1",
+        "contractStatus": "契約中",
+        "note": "Ok",
+        "directorId1": 1,
+        "directorId2": 2,
+        "directorId3": 3,
+        "directorName1": "HLS Admin",
+        "directorName2": "HLS Admin2",
+        "directorName3": "HLS Admin3",
+        "managerMail": "chainidmanager@gmial.com"
+      }
+    ],
+    "total": 1
+  },
+  "message": "Successfully"
+}

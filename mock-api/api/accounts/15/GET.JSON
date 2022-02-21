@@ -1,0 +1,15 @@
+{
+  "status": 200,
+  "message": "Successfully",
+  "data": {
+    "accountId": 15,
+    "role": "ROLE_USER",
+    "status": "active",
+    "chainId": "12",
+    "storeId": "22",
+    "mail": "newuser@domain.com,
+    "phone": "01650883999",
+    "note": "hello",
+    "username": "newuser"
+  }
+}

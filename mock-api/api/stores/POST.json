@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "data": {
+    "stores": [
+      {
+        "storeId": 10003,
+        "chainId": 10001,
+        "directorId": 10001,
+        "managerName": "HaiLX",
+        "managerMail": "Hailx@reactplus.com",
+        "managerPhone": "0988222888",
+        "name": "Hotel 4",
+        "contractStatus": "契約中",
+        "chainName": "Holiday Inn",
+        "directorName": "Hai Luong",
+        "otas": [
+          {
+            "storeId": 10003,
+            "otaId": 10002,
+            "url": "https://testota.com",
+            "username": "abc",
+            "password": "123",
+            "expiredDate": 1588647906000,
+            "note": null
+          }
+        ],
+        "siteControllers": [
+          {
+            "url": "https://reactplus.com",
+            "storeCode": "REACT",
+            "username": "chain3",
+            "password": "111",
+            "expiredDate": 1588647906000,
+            "note": "Please test",
+            "storeId": 10003,
+            "siteControllerId": 202
+          }
+        ]
+      }
+    ],
+    "total": 1
+  },
+  "message": "Successfully"
+}

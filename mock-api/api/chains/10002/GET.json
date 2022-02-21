@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Successfully",
+  "data": {
+    "chainId": 10002,
+    "contractStatus" : "契約中",
+    "name" : "chain name1",
+    "directorId1" : "10000",
+    "directorId2" : "",
+    "directorId3" : "",
+    "managerMail" : "managermail@gmail.com",
+    "note" : "notenotenotenote",
+    "stores": [{
+  "storeId": 10000,
+  "chainId": 10000,
+  "directorId": 10000,
+  "managerName": "Store Manager 1",
+  "siteId": "",
+  "siteUrl": "",
+  "siteIdHotel": "",
+  "siteUsername": "",
+  "sitePassword": "",
+  "siteExpiredDate": null,
+  "siteNote": "",
+  "name": "Hotel 1"
+},
+  {
+    "storeId": 10001,
+    "chainId": 10000,
+    "directorId": 10000,
+    "managerName": "Store Manager 2",
+    "siteId": "",
+    "siteUrl": "",
+    "siteIdHotel": "",
+    "siteUsername": "",
+    "sitePassword": "",
+    "siteExpiredDate": null,
+    "siteNote": "",
+    "name": "Hotel 2"
+  }]
+}
+}
+
+
+
+

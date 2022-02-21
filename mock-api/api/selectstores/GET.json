@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "data": {
+    "accounts": [
+      {
+        "storeId": 10000,
+        "storeName": "Hotel 1",
+        "directorId": 10000,
+        "directorName": "HLS Admin"
+      },
+      {
+        "storeId": 10001,
+        "storeName": "Hotel 2",
+        "directorId": 10001,
+        "directorName": "HLS Chain"
+      }
+    ],
+    "total": 2
+  },
+  "message": "Successfully"
+}

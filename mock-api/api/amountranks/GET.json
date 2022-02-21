@@ -1,0 +1,31 @@
+{
+  "status": 200,
+  "data": {
+    "amountRanks": [
+      {
+        "amountRankId": 10013,
+        "storeId": 10000,
+        "amountRankNo": 1,
+        "amountRankName": "No 1",
+        "enable": true,
+        "createdDate": "2020/07/15",
+        "updatedTime": "2020/07/15",
+        "accountId": 8,
+        "displayName": "ADMIN 8"
+      },
+      {
+        "amountRankId": 10015,
+        "storeId": 10000,
+        "amountRankNo": 2,
+        "amountRankName": "No 3",
+        "enable": true,
+        "createdDate": "2020/07/15",
+        "updatedTime": "2020/07/15",
+        "accountId": 8,
+        "displayName": "ADMIN 8"
+      }
+    ],
+    "total": 2
+  },
+  "message": "Successfully"
+}

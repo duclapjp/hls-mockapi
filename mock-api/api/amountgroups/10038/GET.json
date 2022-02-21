@@ -1,0 +1,34 @@
+{
+  "status": 200,
+  "data": {
+    "amountGroupId": 10038,
+    "storeId": 10000,
+    "amountGroupNo": 5,
+    "totalPeople": 3,
+    "amountGroupName": "Test 1",
+    "enable": true,
+    "accountId": 8,
+    "displayName": null,
+    "amountForms": [
+      {
+        "amountGroupId": 10038,
+        "amountRankId": 10013,
+        "amountRankName": "No 1",
+        "amounts": [
+          5,
+          7
+        ]
+      },
+      {
+        "amountGroupId": 10038,
+        "amountRankId": 10015,
+        "amountRankName": "No 2",
+        "amounts": [
+          88,
+          99
+        ]
+      }
+    ]
+  },
+  "message": "Successfully"
+}

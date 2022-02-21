@@ -1,0 +1,17 @@
+{
+  "status": 200,
+  "data": {
+    "accounts": [
+      {
+        "accountId": 10019,
+        "displayName": "Bacn"
+      },
+      {
+        "accountId": 10001,
+        "displayName": "User"
+      }
+    ],
+    "total": 2
+  },
+  "message": "Successfully"
+}

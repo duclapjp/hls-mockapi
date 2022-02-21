@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "data": {
+    "total": 1,
+    "amountGroups": [
+      {
+        "amountGroupId": 10038,
+        "storeId": 10000,
+        "amountGroupNo": 1,
+        "totalPeople": 3,
+        "amountGroupName": "Test 1",
+        "enable": true,
+        "createdDate": "2020/07/17",
+        "updatedTime": "2020/07/17",
+        "accountId": 8,
+        "displayName": "ADMIN 8",
+        "amountGroupRanks": null
+      }
+    ]
+  },
+  "message": "Successfully"
+}

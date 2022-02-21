@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "data": {
+    "accounts": [
+      {
+        "accountId": 10000,
+        "displayName": "HLS Admin"
+      },
+      {
+        "accountId": 10001,
+        "displayName": "Chain Name"
+      },
+      {
+        "accountId": 10002,
+        "displayName": "Store Admin"
+      },
+      {
+        "accountId": 10003,
+        "displayName": "Jerry"
+      }
+    ],
+    "total": 4
+  },
+  "message": "Successfully"
+}

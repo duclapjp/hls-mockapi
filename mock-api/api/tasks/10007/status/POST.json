@@ -1,0 +1,48 @@
+{
+  "status": 200,
+  "data": {
+    "taskId": 10007,
+    "categoryId": 10000,
+    "title": "PARENT TASK",
+    "note": "Parent Task2 ",
+    "status": "作業中",
+    "priority": "中",
+    "assigneeId": 10001,
+    "directorId": 10000,
+    "startDate": "2020/05/27",
+    "dueDate": null,
+    "estTime": 5,
+    "estPoint": 100,
+    "actualTime": null,
+    "registerPersonId": 10000,
+    "registerDate": "2020/05/27",
+    "storeId": null,
+    "parentTaskId": null,
+    "visible": false,
+    "comments": null,
+    "attachs": [
+      {
+        "taskAttachId": 10033,
+        "taskId": 10007,
+        "attachName": "response.txt",
+        "attachUrl": "attached-10033-1590571704565.txt",
+        "createdDate": "2020/05/27",
+        "parentAttachId": null,
+        "size": 0,
+        "contentType": "text/plain"
+      },
+      {
+        "taskAttachId": 10032,
+        "taskId": 10007,
+        "attachName": "Template-A-v2.png",
+        "attachUrl": "attached-10032-1590571688990.png",
+        "createdDate": "2020/05/27",
+        "parentAttachId": null,
+        "size": 0,
+        "contentType": "image/png"
+      }
+    ],
+    "childs": null
+  },
+  "message": "Successfully"
+}

@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "data": {
+    "helpId": 10012,
+    "manualUrl": "manuals/manualfile-1592457229422.pdf",
+    "manualName": "React- EdgeConnection.pdf",
+    "createdDate": "2020/06/18 14:13:52",
+    "fileSize": 2495630,
+    "contentType": "application/pdf"
+  },
+  "message": "Successfully"
+}

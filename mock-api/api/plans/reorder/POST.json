@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "planId": 10026,
+      "status": "ENABLED"
+    },
+    {
+      "planId": 10024,
+      "status": "ENABLED"
+    },
+    {
+      "planId": 10023,
+      "status": "ENABLED"
+    },
+    {
+      "planId": 10025,
+      "status": "ENABLED"
+    }
+  ],
+  "message": "Successfully"
+}

@@ -1,0 +1,51 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "otaId": 10019,
+      "name": "runu- kkk",
+      "otaTypeId": 10001,
+      "loginUrlFixed1": "http://google.com",
+      "loginUrlFixed2": "222222222",
+      "storeId": null,
+      "loginId": null,
+      "password": null,
+      "passwordUpdateDeadline": 90,
+      "note": "33333333333333",
+      "status": "ENABLED",
+      "otaTypeName": null,
+      "displayStoreId": true
+    },
+    {
+      "otaId": 10020,
+      "name": "333333333332 Ota 1 updated 222222222 ",
+      "otaTypeId": 10001,
+      "loginUrlFixed1": "33eeeeee.com",
+      "loginUrlFixed2": "11333",
+      "storeId": null,
+      "loginId": null,
+      "password": null,
+      "passwordUpdateDeadline": 3100,
+      "note": "3333texxxxttt_update",
+      "status": "ENABLED",
+      "otaTypeName": null,
+      "displayStoreId": true
+    },
+    {
+      "otaId": 10011,
+      "name": "Ota 1 updated 222222222 ",
+      "otaTypeId": 10000,
+      "loginUrlFixed1": "eeeeee.com",
+      "loginUrlFixed2": "11",
+      "storeId": 10002,
+      "loginId": "loginId11_update",
+      "password": "passworddd1_uodate",
+      "passwordUpdateDeadline": 100,
+      "note": "texxxxttt_update",
+      "status": "ENABLED",
+      "otaTypeName": null,
+      "displayStoreId": false
+    }
+  ],
+  "message": "Successfully"
+}

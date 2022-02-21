@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "data": {
+    "otas": [
+      {
+        "otaId": 2,
+        "baseUrl": "https://reactplus.com",
+        "name": "OTA1"
+      }
+    ],
+    "total": 1
+  },
+  "message": "Successfully"
+}

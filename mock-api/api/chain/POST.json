@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "message": "Successfully",
+  "data": {
+    "chainId": 10002,
+    "contractStatus" : "契約中",
+    "name" : "chain name1",
+    "directorId1" : "10000",
+    "directorId2" : "",
+    "directorId3" : "",
+    "managerMail" : "managermail@gmail.com",
+    "note" : "notenotenotenote"
+  }
+}

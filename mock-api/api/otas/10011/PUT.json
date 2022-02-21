@@ -1,0 +1,19 @@
+{
+  "status": 200,
+  "data": {
+    "otaId": 10020,
+    "name": "333333333332 Ota 1 updated 222222222 ",
+    "otaTypeId": 10001,
+    "loginUrlFixed1": "33eeeeee.com",
+    "loginUrlFixed2": "11333",
+    "storeId": null,
+    "loginId": null,
+    "password": null,
+    "passwordUpdateDeadline": 3100,
+    "note": "3333texxxxttt_update",
+    "status": "ENABLED",
+    "otaTypeName": null,
+    "displayStoreId": true
+  },
+  "message": "Successfully"
+}

@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "data": {
+    "storeId": 10022,
+    "otaId": 10013,
+    "url": "urlurlurl33eeeeee.com",
+    "customStoreId": "ttcustomStoreId",
+    "username": "usernameusernameusername11333",
+    "password": "passwordpasswordpassword3100",
+    "expiredDate": "2020/09/28",
+    "note": "notenotenote3333texxxxttt_update"
+  },
+  "message": "Successfully"
+}

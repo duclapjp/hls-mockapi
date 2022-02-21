@@ -1,0 +1,29 @@
+{
+  "status": 200,
+  "data": {
+    "rows": [
+      {
+        "planId": 10006,
+        "name": "施設情報修正",
+        "status": "ENABLED",
+        "createdDate": null,
+        "updatedDate": null,
+        "createdAccountId": null,
+        "createdAccount": null,
+        "storeId": null,
+        "defaultPlan": false,
+        "items": [
+          {
+            "planId": 10006,
+            "itemId": 10030,
+            "itemJsonValue": null,
+            "itemCode": "ITEM20"
+          }
+        ],
+        "corder": null
+      }
+    ],
+    "total": 1
+  },
+  "message": "Successfully"
+}
