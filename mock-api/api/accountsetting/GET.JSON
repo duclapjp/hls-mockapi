@@ -11,7 +11,7 @@
     "mail_setting": "contact@domain.com",
     "slack_setting": "slackname",
     "chatwork_setting": "chatworkname",
-    "line_setting": "linename,
+    "line_setting": "linename",
     "viber_rakuten_setting": "vibername"
   }
 }

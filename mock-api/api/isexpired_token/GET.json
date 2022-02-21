@@ -2,6 +2,6 @@
   "status": 200,
   "message": "Successfully",
   "data": {
-    "isValid" : true || false
+    "isValid" : true
   }
 }
